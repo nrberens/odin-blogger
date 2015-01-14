@@ -24,7 +24,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 #MY GEMS
-gem 'paperclip'
+gem 'paperclip' #file upload/attachment
+gem 'sorcery'	#authentication
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
